@@ -6,7 +6,7 @@
 
 This module is part of the [Apache Sling](https://sling.apache.org) project.
 
-This module provides an implementation of the Sling Commons Permissions API based on Sling Resource and JCR APIs.
+This module provides an implementation of the [Sling Commons Permissions API](https://github.com/apache/sling-org-apache-sling-commons-permissions) based on Sling Resource and JCR APIs.
 
 ## Sling Permissions Service
 
